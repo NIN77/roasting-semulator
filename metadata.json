@@ -1,0 +1,5 @@
+{
+  "name": "AI Roast My Cast — Ultimate",
+  "description": "A Farcaster Frame and Web Dashboard that uses Google Gemini to generate witty roasts of user casts, complete with leaderboards, history, and AI-powered scoring.",
+  "requestFramePermissions": []
+}
